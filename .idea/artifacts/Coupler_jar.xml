@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Coupler:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Coupler_jar</output-path>
+    <root id="archive" name="Coupler.jar">
+      <element id="module-output" name="Coupler" />
+    </root>
+  </artifact>
+</component>
