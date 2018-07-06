@@ -43,7 +43,8 @@ public class Main {
 
 		} else {
 			// No valid coupling operation passed
-			throw new IllegalArgumentException("Invalid operation argument: " + args[1]);
+			System.out.println("Invalid operation argument: " + args[0]);
+			System.exit(1);
 		}
 
 	}
