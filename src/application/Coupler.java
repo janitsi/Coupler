@@ -8,6 +8,4 @@ public class Coupler {
 
 		return coupler.apply(binaries);
 	}
-
-
 }
